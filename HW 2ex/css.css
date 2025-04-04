@@ -1,0 +1,23 @@
+body {
+    background-color: #996b94;
+    height: 890px;
+}
+
+.button {
+    color: #9785ff;
+    font-size: 30px;
+    background-color: #4a3b9c;
+    border-radius: 3%;
+    border: 1px solid #4a3b9c;
+    transition: all 0.3s;
+    cursor: pointer;
+    margin-left: 24%;
+    margin-top: 10%;
+    width: 50%;
+    height: 40%;
+}
+.button:hover {
+    color:#a29bd3;
+    background-color: #331cb4;
+    box-shadow: 10px 10px 0 0 #1e0f7580;
+}
